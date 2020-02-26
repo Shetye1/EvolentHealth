@@ -1,0 +1,13 @@
+/*css added by pratiksha, for contact form*/
+.mt{
+	margin-top: 30px;
+}
+.error{
+	color: red;
+}
+.borderError {
+    border: 1px solid #f14440;
+}
+.p-20{
+	padding: 20px;
+}
